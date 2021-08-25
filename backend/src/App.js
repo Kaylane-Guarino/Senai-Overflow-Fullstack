@@ -5,4 +5,4 @@ const app = express();
 
 app.use(routes);
 
-module.exports = app
+module.exports = app //Exportando o app
