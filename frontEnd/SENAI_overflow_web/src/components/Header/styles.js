@@ -25,6 +25,7 @@ export const Container = styled.header`
         border: none;
         font-size: 22px;
         padding-left: 10px;
+        border-radius: 10px
     }
 `;
 
